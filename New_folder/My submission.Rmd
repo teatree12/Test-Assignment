@@ -1,0 +1,15 @@
+---
+title: "My submission"
+author: "Rosie"
+output: html_document
+date: "2026-10-08"
+---
+## Reasons why version control is useful
+1. It means that people can see what you have done
+2. It reduces fraud
+3. It makes science more open. 
+
+```{r}
+1 + 1
+```
+
